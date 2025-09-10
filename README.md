@@ -20,7 +20,7 @@
 - Python
 - PostgresQL
 - Django // Django REST
-- Celery
+- Celery // Redis
 - Aiogram
 - Pandas
 - Pydantic
